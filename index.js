@@ -1,2 +1,2 @@
 import './src/styles/style.css'
-console.log('Начало работы')
+import Team from './src/app'
